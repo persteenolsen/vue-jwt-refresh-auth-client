@@ -35,7 +35,7 @@ function onSubmit(values, { setErrors }) {
      
     <div class="col-md-6 offset-md-3 mt-5">
         
-        <b>Last updated:</b> 17-03-2026
+        <b>Last updated:</b> 24-03-2026
         <br /><br />
 
         <div class="alert alert-info">
